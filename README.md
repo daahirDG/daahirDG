@@ -1,7 +1,4 @@
 my web pages
-my web wordpress
-
-https://daahironline.wordpress.com
 
 
 
